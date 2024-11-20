@@ -27,6 +27,10 @@
 - According to the reports, the humiliation starts verbally with terms such as stupid, useless, worthless, and more in private and also in front of other colleges. The Next stage is raising the voice for short and long duration non-stop, expressing mostly false claims and labeling to destroy students' personalities. These actions are hostile and forbidden in the academic community and make the community toxic and unhealthy.
 
 - Almost in all cases, budget and financial reasons were the core of these actions. Normally as the university funds the student and the advisor is the manager of the project, she/he lets her/himself insult the student and cause the unfair issues mentioned above.
+
+- Ethical AI in Academic Governance: AI systems could be designed to monitor the fairness and transparency of academic procedures and interactions. For instance, AI could analyze communication patterns and decision-making processes to identify potential biases or abuses of power.
+- AI for Whistleblower Support: AI-driven platforms could provide secure and anonymous ways for students and other academic participants to report misconduct. These platforms could use natural language processing to understand the context of complaints and escalate them appropriately.
+- Emotional Recognition and Monitoring: AI could be used to analyze behavioral data, such as voice tone and speech patterns, to detect signs of distress or aggression in academic settings. This could help identify toxic behaviors and environments.
   
 </div>
 
