@@ -25,6 +25,9 @@
 - Furthermore, there were cases in which the advisor was an intelligent person and trusted her/his co-advisor, having wrong or deviated intel about the student, which the co-advisor didn't like or envy.
 
 - According to the reports, the humiliation starts verbally with terms such as stupid, useless, worthless, and more in private and also in front of other colleges. The Next stage is raising the voice for short and long duration non-stop, expressing mostly false claims and labeling to destroy students' personalities. These actions are hostile and forbidden in the academic community and make the community toxic and unhealthy.
+
+- Almost in all cases, budget and financial reasons were the core of these actions. Normally as the university funds the student and the advisor is the manager of the project, she/he lets her/himself insult the student and cause the unfair issues mentioned above.
+  
 </div>
 
 
