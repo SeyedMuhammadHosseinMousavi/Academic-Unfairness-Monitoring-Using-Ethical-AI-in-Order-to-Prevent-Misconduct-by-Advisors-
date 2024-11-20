@@ -9,7 +9,7 @@
 </div>
 
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/3d166f87-9259-4cfc-8753-720e75a441bc" width="800" height="400">
+    <img src="https://github.com/user-attachments/assets/3d166f87-9259-4cfc-8753-720e75a441bc" width="850" height="400">
 </div>
 
 <div align="justify">
