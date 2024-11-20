@@ -5,7 +5,7 @@
 - This data is collected from the true stories of multiple students.
 <div align="justify">
 -Sometimes, power brings corruption, and it could even happen in the academic environment. Students are the victims of it as they are the weakest members of the organizations. On the other hand, higher-ranked members, like advisors and co-advisors, are powerful and can influence other members of the community through their power and position, regardless of their claim's validity. This scenario could even happen in modern countries, especially if the student is from third-world countries like the Middle East or Africa. In this situation, if the student is not obedient enough or wants to show his/her true scientific potential, they face unfair behavior or misconduct by their advisors and co-advisors. In this condition, the advisor and co-advisor abuse their power to label the student with false documents and force the student to accept terms in a long duration of humiliation or court meeting, which destroys the student mentally and psychologically. After a long time of pressure, the student will accept any terms and conditions under pressure that are not correct. If the student is overqualified and the higher rank is psychologically unstable, there is a high possibility of envy and more pressure as they feel secure from any action due to their position. Here, the power of Artificial Intelligence (AI) through Ethical AI could be handy in monitoring this unfairness in the university/organization and revealing what exactly is happening. Also, this could affect other academic members, who assist the corrupt advisor and the co-advisor.
-  
+
 </div>
 
 <div style="text-align: center;">
@@ -21,6 +21,10 @@
 - These types of actions could be devastating for the future of the student as the student considers this advisor to be a sample of that nation and also finds it difficult to trust people in the future, especially people with the same background.
 
 - Another reason for such a phenomenon is the similarity between students' high scientific level and the advisor's advisor during her/his PhD. In this case, the corrupted advisor abuses the power to get revenge from a similar person but from an innocent individual.
+
+- Furthermore, there were cases in which the advisor was an intelligent person and trusted her/his co-advisor, having wrong or deviated intel about the student, which the co-advisor didn't like or envy.
+
+- According to the reports, the humiliation starts verbally with terms such as stupid, useless, worthless, and more in private and also in front of other colleges. The Next stage is raising the voice for short and long duration non-stop, expressing mostly false claims and labeling to destroy students' personalities. These actions are hostile and forbidden in the academic community and make the community toxic and unhealthy.
 </div>
 
 
