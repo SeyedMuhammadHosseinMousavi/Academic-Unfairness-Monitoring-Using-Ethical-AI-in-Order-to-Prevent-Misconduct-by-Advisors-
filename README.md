@@ -10,6 +10,7 @@
 </div>
 
 <div align="justify">
+
 - Sometimes, students' breakthrough achievements will be ignored or will be rejected without any clear reason, which could be devastating for the student. This happens due to a low level of obedience of the student to their will, which sometimes could be expressed implicitly over time. So, here we are not talking about achievements but other demands which students are not willing to do.
     
 - Another reason for such behavior is the lack of knowledge of the advisor in that specific area. For instance, the advisor accepts the student in the interview, but she/he doesn't have enough knowledge in the area of the advertised project. She/he has to assign another person to handle the new student. Now, this person could be a post-doc student with limited knowledge or time. Over time, the advisor found out that things were not working well as the co-advisor was busy with his/her projects, and the advisor her/himself is not familiar with the topic. So, there is no choice but to show the student's lack of achievement to the committee rather than accepting the reality as it would be very destructive for her/his reputation. Again, the advisor has to abuse power, as mentioned above.
