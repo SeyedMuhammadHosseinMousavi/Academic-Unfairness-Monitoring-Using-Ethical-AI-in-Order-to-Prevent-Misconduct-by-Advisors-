@@ -25,7 +25,7 @@
 
 - Another reason for such a phenomenon is the similarity between students' high scientific level and the advisor's advisor during her/his PhD. In this case, the corrupted advisor abuses the power to get revenge from a similar person but from an innocent individual.
 
-- Furthermore, there were cases in which the advisor was an intelligent person and trusted her/his co-advisor, having wrong or deviated intel about the student, which the co-advisor didn't like or envy.
+- Furthermore, there were cases in which the advisor trusted her/his co-advisor, and co-advisor provides wrong or deviated intel about the student, in case that the co-advisor didn't like the student or envy to the student.
 
 - According to the reports, the humiliation starts verbally with terms such as stupid, useless, worthless, and more in private and also in front of other colleges. The Next stage is raising the voice for short and long duration non-stop, expressing mostly false claims and labeling to destroy students' personalities. These actions are hostile and forbidden in the academic community and make the community toxic and unhealthy.
 
